@@ -1,0 +1,105 @@
+[
+  {
+    "analysis_id": "86deb401-aeac-4d0e-8c6d-637db61440f0",
+    "timestamp": "2026-02-20T19:36:18.522075",
+    "filename": "c056cac72ab74901842fd991dcf66b1c.jpg",
+    "class_name": "MORPHED",
+    "confidence": 52.8,
+    "risk_level": "MEDIUM",
+    "regions": [],
+    "processing_time_ms": 0,
+    "thumbnail_url": "/uploads/c056cac72ab74901842fd991dcf66b1c.jpg"
+  },
+  {
+    "analysis_id": "ee208362-f3b2-419f-b09c-27c9c8b68954",
+    "timestamp": "2025-08-27T21:30:59.444590",
+    "filename": "ce73649a888942b186a3f9f32bd20de1.jpg",
+    "class_name": "MORPHED",
+    "confidence": 70.3,
+    "risk_level": "MEDIUM",
+    "regions": [],
+    "processing_time_ms": 0,
+    "thumbnail_url": "/uploads/ce73649a888942b186a3f9f32bd20de1.jpg"
+  },
+  {
+    "analysis_id": "997f270d-68a5-408e-972e-112fa2de49e7",
+    "timestamp": "2025-08-27T21:30:18.855688",
+    "filename": "4217ddc38fea4d7b8f1f570862e310ef.jpg",
+    "class_name": "GENUINE",
+    "confidence": 0.0,
+    "risk_level": "LOW",
+    "regions": [],
+    "processing_time_ms": 0,
+    "thumbnail_url": "/uploads/4217ddc38fea4d7b8f1f570862e310ef.jpg"
+  },
+  {
+    "analysis_id": "3dd3a8ad-32b0-4984-8098-efe1a0fee4bc",
+    "timestamp": "2025-08-27T21:30:08.242127",
+    "filename": "db793edcba2c43bdb029ebc865a17825.jpeg",
+    "class_name": "MORPHED",
+    "confidence": 100.0,
+    "risk_level": "CRITICAL",
+    "regions": [],
+    "processing_time_ms": 0,
+    "thumbnail_url": "/uploads/db793edcba2c43bdb029ebc865a17825.jpeg"
+  },
+  {
+    "analysis_id": "6de7f4dc-5b8c-4396-965c-6a19b2ec78e4",
+    "timestamp": "2025-08-27T20:49:33.479614",
+    "filename": "88ae0c22edf346658e2745294a03bfbd.jpg",
+    "class_name": "GENUINE",
+    "confidence": 0.0,
+    "risk_level": "LOW",
+    "regions": [],
+    "processing_time_ms": 0,
+    "thumbnail_url": "/uploads/88ae0c22edf346658e2745294a03bfbd.jpg"
+  },
+  {
+    "analysis_id": "f02c7ad0-711c-4760-a920-a7d26c15b59c",
+    "timestamp": "2025-08-27T20:45:58.488979",
+    "filename": "b242ed7a64a9499e91c75aeefa500053.jpg",
+    "class_name": "GENUINE",
+    "confidence": 0.0,
+    "risk_level": "LOW"
+  },
+  {
+    "analysis_id": "4b775c13-81fe-4da3-b350-ea815b1b262d",
+    "timestamp": "2025-08-27T20:42:48.981483",
+    "filename": "e2a8311836634a18b0d9b9bf14a04ca0.jpg",
+    "class_name": "GENUINE",
+    "confidence": 0.0,
+    "risk_level": "LOW"
+  },
+  {
+    "analysis_id": "2cabe3ab-daf4-4ac6-84da-b49864fa2826",
+    "timestamp": "2025-08-27T20:15:55.670146",
+    "filename": "900f857829354077a28ad4c89578a191.jpg",
+    "class_name": "GENUINE",
+    "confidence": 0.0,
+    "risk_level": "LOW"
+  },
+  {
+    "analysis_id": "3bd8a747-1393-43fd-b810-2504735fbdd4",
+    "timestamp": "2025-08-27T20:13:03.897826",
+    "filename": "1b8c2feab3ab423b952d3a451ba1bc10.jpg",
+    "class_name": "GENUINE",
+    "confidence": 0.0,
+    "risk_level": "LOW"
+  },
+  {
+    "analysis_id": "228b6842-16e8-4922-b841-0f918899b69c",
+    "timestamp": "2025-08-27T20:12:29.360339",
+    "filename": "5c40fc17a84b4d11be05ee45e5434ed1.jpg",
+    "class_name": "GENUINE",
+    "confidence": 0.0,
+    "risk_level": "LOW"
+  },
+  {
+    "analysis_id": "9c0f86d3-7234-4d30-9b26-d02a6cf1f936",
+    "timestamp": "2025-08-27T20:10:55.413408",
+    "filename": "ec0da4c0e18c43c389bae858eaaf74af.jpg",
+    "class_name": "GENUINE",
+    "confidence": 0.0,
+    "risk_level": "LOW"
+  }
+]
