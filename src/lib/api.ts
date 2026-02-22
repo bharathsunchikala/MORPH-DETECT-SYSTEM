@@ -1,3 +1,8 @@
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000';
+const MOCK_MODE = import.meta.env.VITE_MOCK_API === 'true' || false;
+
+console.log("ENV BASE URL:", API_BASE_URL);
+console.log("ENV MOCK MODE:", MOCK_MODE);
 import type { 
   InferenceRequest, 
   InferenceResponse, 
@@ -9,8 +14,7 @@ import type {
 } from '../types/api';
 
 // Updated to point to Flask backend
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000';
-const MOCK_MODE = import.meta.env.VITE_MOCK_API === 'true' || false; // Default to false for Flask backend
+
 
 class ApiClient {
   private baseUrl: string;
